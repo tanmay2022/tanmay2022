@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/tanmay2022">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay2022&layout=compact&theme=radical&card_width=800" />
+  </a>
+
 <!--
 **tanmay2022/tanmay2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
